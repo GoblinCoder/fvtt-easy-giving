@@ -13,9 +13,9 @@
   "version": "1.0.0",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
-  "readme": "https://github.com/goblincoder/fvtt-easy-giving/blob/main/README.md",
-  "url": "https://github.com/goblincoder/fvtt-easy-giving",
-  "license": "https://github.com/goblincoder/fvtt-easy-giving/blob/main/LICENSE",
+  "readme": "https://github.com/GoblinCoder/fvtt-easy-giving/blob/main/README.md",
+  "url": "https://github.com/GoblinCoder/fvtt-easy-giving",
+  "license": "https://github.com/GoblinCoder/fvtt-easy-giving/blob/main/LICENSE",
   "languages": [
     {
       "lang": "en",
