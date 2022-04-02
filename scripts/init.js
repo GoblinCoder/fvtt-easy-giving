@@ -1,5 +1,7 @@
-import EasyGiving from "./EasyGiving.js";
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2022 GoblinCoder <goblincoder@outlook.com>
 
+import EasyGiving from "./EasyGiving.js";
 
 let easyGiving = null;
 
