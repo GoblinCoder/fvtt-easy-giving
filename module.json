@@ -1,0 +1,29 @@
+{
+  "name": "fvtt-easy-giving",
+  "title": "Easy Giving",
+  "description": "Rightclick on an item in \"Items Directory\" to give it to a players character.",
+  "author": "GoblinCoder",
+  "authors": [
+    {
+      "name": "GoblinCoder",
+      "email": "goblincoder@outlook.com",
+      "url": "https://github.com/goblincoder"
+    }
+  ],
+  "version": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "readme": "https://github.com/GoblinCoder/fvtt-easy-giving/blob/main/README.md",
+  "url": "https://github.com/GoblinCoder/fvtt-easy-giving",
+  "license": "https://github.com/GoblinCoder/fvtt-easy-giving/blob/main/LICENSE",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "esmodules": [
+    "scripts/init.js"
+  ]
+}
